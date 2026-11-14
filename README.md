@@ -18,4 +18,9 @@ Sitemap: https://tuinmanindebuurt.be/sitemap.xml. Verifieer na publicatie het do
 
 Bedrijfsgegevens en diensten zijn gecontroleerd op https://www.dvstuinen.be/ op 14 november 2026. Telefoon: 0478 04 01 28. E-mail: diovanswalm@outlook.be. Beelden zijn van de bestaande DVS-site overgenomen en als illustratief aangeduid. Geen verzonnen projecten, reviews, prijsclaims of plaatselijke vestigingen.
 
-Contact loopt via telefoon, e-mail en WhatsApp. Er is geen formulier dat ten onrechte een ontvangstbevestiging toont. De site gebruikt geen analytics of advertentiecookies.
+Contact loopt via telefoon, e-mail en WhatsApp. Het offerteformulier controleert de verplichte velden en stelt een bericht samen voor WhatsApp of de e-mailapp. De bezoeker verzendt het bericht daarna zelf in die app; de website bevestigt geen ontvangst. Er worden geen formuliergegevens op de site opgeslagen. De site gebruikt geen analytics of advertentiecookies.
+
+## Uitbreiding
+
+50 inhoudelijke pagina’s, waaronder 26 regiopagina’s en een aparte pagina over bomen vellen en kappen. Vaste bel- en WhatsAppknoppen op desktop en mobiel. Het offerteformulier bevat ook bomen snoeien en bomen vellen en kappen.
+
